@@ -1,0 +1,36 @@
+
+.App {
+  text-align: center;
+}
+
+nav{
+  background-color: black;
+}
+nav ul{
+  list-style: none;
+  display: flex;
+}
+nav ul li{
+  display: flex;
+  padding: 10px;
+}
+
+.delete{
+  margin-left: 6px;
+}
+
+.box{
+  background-color: #d8f6ff;
+  padding: 20px;
+  margin-top: 4%;
+ 
+  margin-left: 20%;
+  margin-right: 20%;
+
+    
+}
+.left{
+  text-align: left;
+  margin-left:12% ;
+}
+
